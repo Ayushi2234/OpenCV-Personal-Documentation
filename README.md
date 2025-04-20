@@ -1,11 +1,9 @@
 # OpenCV Personal Documentation
 
-Welcome to my personal documentation for OpenCV .This repository is a collection of my notes, tutorials, and projects related to OpenCV. This documentation aims to help me and others .
+Welcome to a user-friendly documentation for OpenCV .This repository is a collection of personal notes, tutorials, and projects related to OpenCV. This documentation aims to help users .
 
-`Note` : I write the docs on my own and then apply ChatGpt enhancements for corrections and readability.
-
-> I've shared the links so you can enjoy OpenCV the way I do.
-> This is just my approach—feel free to explore your own path.
+> Links have been shared so you can enjoy OpenCV the way we do.
+> This is just an approach—feel free to explore your own path.
 
 ## OpenCV Tutorials
 
@@ -136,4 +134,4 @@ Welcome to my personal documentation for OpenCV .This repository is a collection
 6. **BRIEF (Binary Robust Independent Elementary Features)**: [My Docs](https://github.com/shyama7004/OpenCV-Personal-Documentation/blob/main/Main-Concepts/BRIEF.md) | [OpenCV Docs](https://docs.opencv.org/4.x/dc/d7d/tutorial_py_brief.html)
 7. **ORB (Oriented FAST and Rotated BRIEF)**: [My Docs](<https://github.com/shyama7004/OpenCV-Personal-Documentation/blob/main/Main-Concepts/ORB%20(Oriented%20FAST%20and%20Rotated%20BRIEF).md>) | [OpenCV Docs](https://docs.opencv.org/4.x/d1/d89/tutorial_py_orb.html)
 
-> Thx for reading, I hope you enjoyed it. May the code be with you.
+> Thanks for reading, I hope you enjoyed it. May the code be with you.
